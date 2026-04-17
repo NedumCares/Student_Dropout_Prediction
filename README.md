@@ -15,7 +15,7 @@ Student dropout is a critical challenge in higher education. This research evalu
 ## 📂 Repository Contents
 * **`Student_dropout_prediction.ipynb`**: Full Python implementation (Data preprocessing, SMOTE, Training, and SHAP analysis).
 * **`WJAETS-2026-0192 (2).pdf`**: The official research paper published in the *World Journal of Advanced Engineering Technology and Sciences*.
-* **`prediction_image.png`**: Visual representation of model performance and SHAP feature importance.
+* **`prediction_image.png`**: Relationship between the features and target variable
 
 ---
 
