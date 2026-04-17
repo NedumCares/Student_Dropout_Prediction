@@ -30,8 +30,8 @@ The study highlights that balancing the dataset significantly improves the **Rec
 
 ---
 
-## 🖼️ Model Interpretability
-Below is the SHAP/Prediction visualization generated during the analysis:
+## 🖼️ Exploratory Data Analysis
+Below is the  visualization the relation between the features and the target variable:
 
 ![Prediction Results](prediction_image.png)
 
